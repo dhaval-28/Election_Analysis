@@ -15,7 +15,7 @@ The purpose of this project was to complete an election audit analysis of a rece
 
 ## Election Audit Results
 Attached image summarize the election results.
-![Election Results]()
+![Election Results](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results.png)
 The total amount of votes that were cased in the congressional election was 369,711. 
 
 County Level :  Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson received 10.5% of the total votes, whereas Arapahoe received only won 6.7% of the total votes.
