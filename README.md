@@ -27,4 +27,4 @@ Candidate Level : As for the candidates, Diana DeGette received the most number 
 
 This script can be modified to find out the winning candidate of each county. This will allow to see which candidate was the most popular within a county.
 
-The source field has only two main characteristics, candidate and county. If there are more characteristics available then analysis can be performed for them as well. 
+The source file has only two main characteristics, candidate and county. If there are more characteristics available then analysis can be performed for them as well. 
