@@ -14,7 +14,7 @@ The purpose of this project was to complete an election audit analysis of a rece
 
 
 ## Election Audit Results
-Attached image summarize the election results.
+Attached image summarizes the election results.
 
 ![Election Results](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results.png)
 
