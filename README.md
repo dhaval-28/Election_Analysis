@@ -14,9 +14,9 @@ The purpose of this project was to complete an election audit analysis of a rece
 
 
 ## Election Audit Results
-Attached image summarizes the election results.
+Below image summarizes the election results from command line. Same result is avilable in election_analyis.txt : ![Click here is the link to view the file ](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/election_analysis.txt)
 
-![Election Results](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results.png)
+![Election Results](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results_Terminal.png)
 
 The total amount of votes that were cased in the congressional election was 369,711. 
 
