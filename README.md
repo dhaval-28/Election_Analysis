@@ -14,7 +14,7 @@ The purpose of this project was to complete an election audit analysis of a rece
 
 
 ## Election Audit Results
-Below image summarizes the election results from command line. Same result is avilable in election_analyis.txt : ![Click here to view  election_analyis.txt ](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/election_analysis.txt)
+Below image summarizes the election results from terminal. Same result is avilable in election_analyis.txt : ![Click here to view  election_analyis.txt ](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/election_analysis.txt)
 
 ![Election Results](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results_Terminal.png)
 
